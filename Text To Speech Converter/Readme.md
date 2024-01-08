@@ -58,8 +58,5 @@ This Text-to-Speech Converter Web App is open-source and available under the [MI
 
 ## Acknowledgments
 
-- Special thanks to [Name] for the inspiration or guidance.
-- Animated background sourced from [Source] (provide the source link).
-
 Thank you for using the Text-to-Speech Converter Web App! 
 Happy converting! 🎉
